@@ -1,7 +1,7 @@
 # BankPro Expense Tracker
 
 A professional banking-style expense management application with comprehensive financial tracking features. This enterprise-grade solution offers the functionality and security you'd expect from a financial institution.
-
+<img width="1901" height="907" alt="Image" src="https://github.com/user-attachments/assets/90d0ec5d-0d05-4334-8f40-7337271ea949" />
 ## Features
 
 - **Dashboard Analytics**: Real-time financial summaries with balance, income, and expense tracking
